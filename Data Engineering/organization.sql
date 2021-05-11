@@ -1,0 +1,10 @@
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (1, 'Boeing', 3, 'Food', '2020-07-12', 'level4', 'CN');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (2, 'McD', 4, 'Manufacturing', '2021-02-15', 'level2', 'UA');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (3, 'McD', 3, 'Retail', '2021-05-22', 'level2', 'BR');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (4, 'Macy''s', 3, 'Banking', '2019-06-13', 'level1', 'PT');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (5, 'Boeing', 2, 'Banking', '2017-10-21', 'level3', 'FR');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (6, 'Chase', 4, 'Retail', '2021-03-26', 'level4', 'DO');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (7, 'Boeing', 2, 'Banking', '2017-08-28', 'level3', 'BR');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (8, 'Chase', 2, 'Retail', '2021-12-21', 'level2', 'PH');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (9, 'McD', 2, 'Manufacturing', '2020-03-01', 'level2', 'CN');
+insert into organization (organization_id, Client_org_name, Client_org_code, Client_org_domain, availability_date, top_level_name, ISO_country_code) values (10, 'Chase', 3, 'Banking', '2021-08-05', 'level1', 'CN');
